@@ -8,8 +8,8 @@ It also renames the images with a short catchy title.
 
 ## Prerequisites
 You will need to install 
-  + ollama and llama3.2-vision as well as an embedding model such as nomic-embed-text
-  + python (Im using 3.11) (requirements.txt coming)
+  + Ollama and llama3.2-vision as well as an embedding model such as nomic-embed-text
+  + Python (I'm using 3.11) (requirements.txt coming)
 You need a decent graphics card. I'm having good results with a RTX4070.
 
 ## Usage
