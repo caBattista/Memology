@@ -16,8 +16,8 @@ You need a decent graphics card. I'm having good results with a RTX4070.
   1) First you will need to index your memes. This will take a while depending on how many you have.
 
   2) To use it you need to start the rag.py script. It will scan your keystrokes and then you can use the arrow keys to 
-  retrieve the meme from your folder. Based on what you have previously written.
-  You can also copy something to the clipboard and then have it use that as the promt.
+  retrieve memes from your folder. Based on what you have previously written.
+  You can copy something to the clipboard and then have it use that as the promt as well.
 
 ## Goal
 
