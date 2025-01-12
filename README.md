@@ -4,7 +4,7 @@ A simple tool based on Python, Ollama and Langchain that indexes your local meme
 and suggests to you memes based on embeddings of descriptions created by llama3.2-vision.
 It also renames the images with a short catchy title. 
 
-If over the years you collected an ungodly amount of memes locally this tool ist for you!
+*If you collected an ungodly amount of memes locally over the years like me. This tool ist for you!*
 
 ## Prerequisites
 You will need to install 
