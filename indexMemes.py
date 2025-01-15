@@ -3,7 +3,7 @@ import glob
 import re
 from pathlib import Path
 
-memes = glob.glob(fr"//Christopher_Nas/chrisfiles/Documents/7_Memes/**/*", recursive=True)
+memes = glob.glob(fr"/Memes/**/*", recursive=True)
 
 for path in memes:
         p = Path(path)
